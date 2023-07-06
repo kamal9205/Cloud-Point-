@@ -12,7 +12,7 @@ CloudPoint is a weather application that provides real-time weather information 
 
 ## Installation
 
-To run the WeatherApp locally, follow these steps:
+To run the CloudPoint locally, follow these steps:
 
 1. Clone the repository:
 
@@ -40,10 +40,10 @@ CloudPoint utilizes the RapidAPI weather data API to fetch weather information. 
 
 ## Contributing
 
-Contributions to cloudpoint are welcome! If you encounter any issues or would like to suggest enhancements, please open an issue on the GitHub repository or submit a pull request.
+Contributions to CloudPoint are welcome! If you encounter any issues or would like to suggest enhancements, please open an issue on the GitHub repository or submit a pull request.
 
 ## License
 
  
 
-Feel free to customize this README to suit the specific details and features of your cloudpoint project. It provides an overview of the project, installation and usage instructions, information about the API configuration, and guidelines for contributing.
+Feel free to customize this README to suit the specific details and features of your CloudPoint project. It provides an overview of the project, installation and usage instructions, information about the API configuration, and guidelines for contributing.
